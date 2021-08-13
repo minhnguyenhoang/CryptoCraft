@@ -1,0 +1,81 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Pccase",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pccase"
+    },
+    {
+      "name": "CryptoCraft",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crypto_craft"
+    },
+    {
+      "name": "Refiner",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refiner"
+    },
+    {
+      "name": "Refinergui",
+      "type": "gui",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinergui"
+    },
+    {
+      "name": "Rdfd",
+      "type": "code",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "rdfd"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.cryptocraft.pccase": "Pccase",
+      "itemGroup.tabcrypto_craft": "Crypto Craft",
+      "block.cryptocraft.refiner": "Refiner"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "cryptocraft",
+    "modName": "CryptoCraft",
+    "version": "1.0.0",
+    "author": "acer, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.cryptocraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

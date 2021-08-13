@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cryptocraft:block/pccase"
+    },
+    "facing=east": {
+      "model": "cryptocraft:block/pccase",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cryptocraft:block/pccase",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cryptocraft:block/pccase",
+      "y": 270
+    }
+  }
+}

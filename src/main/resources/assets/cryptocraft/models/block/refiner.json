@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cryptocraft:blocks/refiner_sides",
+    "up": "cryptocraft:blocks/refiner_top",
+    "north": "cryptocraft:blocks/refiner_front",
+    "east": "cryptocraft:blocks/refiner_side",
+    "south": "cryptocraft:blocks/refiner_sides",
+    "west": "cryptocraft:blocks/refiner_sides",
+    "particle": "cryptocraft:blocks/refiner_sides"
+  }
+}

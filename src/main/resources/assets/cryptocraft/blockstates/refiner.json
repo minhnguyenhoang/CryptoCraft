@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cryptocraft:block/refiner"
+    },
+    "facing=east": {
+      "model": "cryptocraft:block/refiner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cryptocraft:block/refiner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cryptocraft:block/refiner",
+      "y": 270
+    }
+  }
+}

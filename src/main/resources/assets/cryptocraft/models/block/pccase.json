@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cryptocraft:blocks/pccase_fill",
+    "up": "cryptocraft:blocks/pccase_top",
+    "north": "cryptocraft:blocks/pccase_front",
+    "east": "cryptocraft:blocks/pccase_fill",
+    "south": "cryptocraft:blocks/pccase_fill",
+    "west": "cryptocraft:blocks/pccase_fill",
+    "particle": "cryptocraft:blocks/pccase_fill"
+  }
+}
